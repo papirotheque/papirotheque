@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 💫
+I'm **Papiro** / **AEON**, a multidisciplinary designer who looks for insights across different fields.
 
-<!--
-**papirotheque/papirotheque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe great design happens at the intersection of disciplines.
 
-Here are some ideas to get you started:
+My process is a continuous loop of exploration: drawing from art, UX, programming and beyond to solve complex problems, or just for experimental purposes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I view design/art/technology as methods to help others navigate complex information from the real world. 
+
+That's why I decided to become a designer, and now, a developer.
+
+---
+
+## More about me
+- **Tools & Tech stack** → Figma, Creative Suite, Affinity, Blender, Ableton
+- **AI Stuff** → Antigravity, AI Studio, Copilot
+- **I'm currently working on** → Teaching languages, finishing freelance design projects
+- **I'm currently learning** → Cross-App Platform Development
+- **Fun Fact** → I like taking notes about EVERYTHING.
