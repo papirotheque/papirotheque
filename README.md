@@ -15,5 +15,5 @@ That's why I decided to become a designer, and now, a developer.
 - **Tools & Tech stack** → Figma, Creative Suite, Affinity, Blender, Ableton
 - **AI Stuff** → Antigravity, AI Studio, Copilot *(learning about environmental impact as well)*
 - **I'm currently working on** → Teaching languages, finishing freelance design projects
-- **I'm currently learning** → Cross-App Platform Development
+- **I'm currently learning** → Cross-Platform App Development
 - **Fun Fact** → I like taking notes about EVERYTHING.
