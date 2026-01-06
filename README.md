@@ -1,9 +1,9 @@
 ## Hi there 💫
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7687b598-7abc-46e9-b7d8-2f54bc61a0ca">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/40a6ecad-0ce6-4e85-9243-c864d2ee2fd4">
-  <img alt="Papirothèque logo" src="https://github.com/user-attachments/assets/40a6ecad-0ce6-4e85-9243-c864d2ee2fd4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7c156777-0c69-400c-90b5-35bed7abbae5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8bad77fb-e7b8-4355-841f-3d836efd919c">
+  <img alt="Papirothèque logo" src="https://github.com/user-attachments/assets/8bad77fb-e7b8-4355-841f-3d836efd919c">
 </picture>
 
 I'm **Papiro** / **AEON**, a multidisciplinary designer who looks for insights across different fields.
