@@ -45,5 +45,5 @@ That's why I decided to become a designer, and now, a developer.
 
 ### More about me
 - **I'm currently working on** → Teaching languages, finishing freelance design projects
-- **I'm currently learning** → Cross-Platform App Development
+- **I'm currently studying** → Cross-Platform App Development
 - **Fun Fact** → I like taking notes about EVERYTHING.
